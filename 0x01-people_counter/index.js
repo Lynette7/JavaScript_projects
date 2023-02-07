@@ -7,6 +7,5 @@ function increment() {
 }
 
 function save() {
-    countEl = document.getElementById("count-el")
     console.log(count)
 }
