@@ -1,6 +1,6 @@
 # JavaScript Projects
 
-This repository conatins projects that I did as I was practicing JavaScript. The projects are:
+This repository conatins some simple JavaScript projects. The projects are:
 
 1. People Counter Application
 2. Blackjack Casino Game
